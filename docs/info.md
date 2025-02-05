@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-WWWWWWWWWWWWWWWWWWWWWWExplain how your project works
+THIS IS A PROPERTY OF LPCAS IIT GANDHINAGAR
 
 ## How to test
 
-WWWWWWWWWWWWWWWWWWWWWWExplain how to use your project
+THIS IS A PROPERTY OF LPCAS IIT GANDHINAGAR
 
 ## External hardware
 
-WWWWWWWWWWWWWWWWWWWWWWWList external hardware used in your project (e.g. PMOD, LED display, etc), if any
+THIS IS A PROPERTY OF LPCAS IIT GANDHINAGAR
